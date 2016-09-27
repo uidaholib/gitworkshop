@@ -6,7 +6,7 @@
 
 `git add`
 
-`git commit -m \"oh my!\"`
+`git commit -m "oh my!"`
 
 ## with:
 

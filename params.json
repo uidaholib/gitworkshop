@@ -1,0 +1,6 @@
+{
+  "name": "Gitworkshop",
+  "tagline": "test repository for git workshop 2016",
+  "body": "# gitworkshop\r\n\r\n> practicing Git and Github at UIdaho Library!\r\n\r\n`git clone`\r\n\r\n`git add`\r\n\r\n`git commit -m \"oh my!\"`\r\n\r\n## with:\r\n\r\n[Evan Will](https://github.com/evanwill)\r\n\r\nand...\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}

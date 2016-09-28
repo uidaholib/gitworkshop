@@ -13,3 +13,5 @@
 [Evan Will](https://github.com/evanwill)
 
 and...
+
+[Katherine] (https://github.com/khegewisch)

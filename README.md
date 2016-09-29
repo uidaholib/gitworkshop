@@ -16,3 +16,5 @@
 
 [John Kaiser](https://github.com/johnathan-kaiser)
 
+[Sharon J](https://github.com/sjemes)
+

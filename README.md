@@ -20,3 +20,6 @@
 
 [Kristen Petersen](https://github.com/kristenpetersen)
 
+## materials:
+
+slides [pdf](https://is.gd/git_uidaho)

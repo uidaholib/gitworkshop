@@ -12,7 +12,7 @@
 
 [Evan Will](https://github.com/evanwill)
 
-[Katherine] (https://github.com/khegewisch)
+[Katherine](https://github.com/khegewisch)
 
 [John Kaiser](https://github.com/johnathan-kaiser)
 
